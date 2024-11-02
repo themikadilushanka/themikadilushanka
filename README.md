@@ -18,6 +18,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kgdthemikadilushanka@gmail.com)
 - ❤️ thank you so much for reading it ❤️
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
+<p align="center"> <a href="https://twitter.com/kgdtdilushanka" target="blank"><img src="https://img.shields.io/twitter/follow/kgdtdilushanka?logo=twitter&style=for-the-badge" alt="kgdtdilushanka" /></a> </p>
 
 <br/>
 <br/>
@@ -43,6 +44,8 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
+
+
 
 ###  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;Tech Stack<img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="30px">
 
@@ -70,10 +73,12 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github stats:</h2> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
-<br/>
-<br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themikadilushanka" alt="themikadilushanka" /></a> </p>
+
+
+<p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en" alt="themikadilushanka" /></p>
+
+
 
 
 <p align="center">
