@@ -75,22 +75,23 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=themikadilushanka&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=85% src="https://github-profile-trophy.vercel.app/?username=themikadilushanka&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
 <br/>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="themika" width="400" /></p>
 </td>
 
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushanka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushanka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />  
   </td>
 </tr> 
 </table>
