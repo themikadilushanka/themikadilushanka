@@ -87,21 +87,19 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <tr border="none">
 <td width="50%" align="center">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushanka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=themikadilushanka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushanka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />  
   </td>
-</tr>
+</tr> 
 </table>
 <!--- stats (end) -->
 
-
-
-
+<!---Future Used In section
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=themikadilushanka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=20"/>
+ -->
+ 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
