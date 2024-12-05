@@ -70,6 +70,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <p align='center'>
 
 <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="250" height="180"> </p>
+</br><br/>
 
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github stats:</h2> 
