@@ -92,10 +92,10 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=themikadilushanka&show_icons=true&locale=en&theme=chartreuse-dark" alt="themika" width="400" /></p>
 </td>
 
-<td width="50%" align="center">
+<!--- <td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=themikadilushanka&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />  
   </td>
-</tr> 
+</tr> -->
 </table>
 <!--- stats (end) -->
 
