@@ -18,7 +18,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kgdthemikadilushanka@gmail.com)
 - ❤️ thank you so much for reading it ❤️
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
-<p align="center"> <a href="https://twitter.com/xthemika" target="blank"><img src="https://img.shields.io/twitter/follow/kgdtdilushanka?logo=twitter&style=for-the-badge" alt="xthemika" /></a> </p>
+<p align="center"> <a href="https://twitter.com/xthemika" target="blank"><img src="https://img.shields.io/twitter/follow/xthemika?logo=twitter&style=for-the-badge" alt="xthemika" /></a> </p>
 
 <br/>
 <br/>
