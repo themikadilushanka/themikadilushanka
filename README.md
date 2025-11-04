@@ -1,8 +1,8 @@
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Themika</a></h1>
-<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University.
-I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
+<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, IIC University.
+I am reading for a BEng Degree in Software Engineering.</h3>
 
 
 
