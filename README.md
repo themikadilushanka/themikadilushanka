@@ -1,8 +1,7 @@
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Themika</a></h1>
-<h3 align="center">I am an undergraduate at the Faculty of Software Engineering, IIC University.
-I am reading for a BEng Degree in Software Engineering.</h3>
+<h3 align="center">Final-year Software Engineering Undergraduate | Tech Enthusiast</h3>
 
 
 
@@ -11,7 +10,7 @@ I am reading for a BEng Degree in Software Engineering.</h3>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me:<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-- 🌱 I’m currently learning to Java.
+- 🌱 I'm currently focusing on sharpening my Software Engineering skills.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 - 🎒 I'm a second-year student.
 - 🤝 I’m available for Java,Html & PHP
